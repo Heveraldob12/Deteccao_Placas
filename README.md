@@ -5,7 +5,7 @@ Descrição:
 | :placard: Vitrine.Dev |    Repositório do [Heveraldo](https://www.linkedin.com/in/heveraldo-serra-7b3544200/)  |
 | -------------  | --- |
 | :sparkles: Nome        | **Curso de Django Rest Framework**
-| :label: Tecnologias | Python,Postman (tecnologias utilizadas)
+| :label: Tecnologias | Python,Google Colab (tecnologias utilizadas)
 | :rocket: URL         | https://cursos.alura.com.br/course/visao-computacional-deteccao-texto-placas-carro
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
